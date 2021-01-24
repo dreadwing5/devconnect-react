@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://dreadwing5:qwerty123@cluster0.5mb2e.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://dreadwing5:qwerty123@cluster0.5mb2e.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
 } 
