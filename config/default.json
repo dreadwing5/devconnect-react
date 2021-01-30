@@ -1,4 +1,5 @@
 {
     "mongoURI" : "mongodb+srv://dreadwing5:qwerty123@cluster0.5mb2e.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken"
+    "jwtSecret" : "mysecrettoken",
+    "githubToken" : "5422b3213785b4a0b65667e8d1fd8b3b8753e14d"
 } 
